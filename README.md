@@ -1,1 +1,1 @@
-# project_euler
+# Contains all my maths practice questions
